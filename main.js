@@ -313,4 +313,4 @@ function gtag() {
 }
 gtag("js", new Date());
 
-gtag("config", "G-ZC757T46H9");
+gtag("config", "G-ZC757T46H9", { debug_mode: true });
